@@ -27,7 +27,6 @@ CSV data files (used for weather data storage)
 1️⃣ Clone the Repository:
 
 git clone [CLICK](https://github.com/PolytechnicCoder/weather-api)
-cd weather-api
 
 2️⃣ Create a Virtual Environment:
 
